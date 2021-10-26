@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 6 elements(s) to &apos;applications graphique/Image&apos;&#x0D;&#x0A;- Original project: &apos;applications graphique&apos;&#x0D;&#x0A;- Destination element: &apos;applications graphique/Image&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     couper.png&#x0D;&#x0A;     ouvrir.png&#x0D;&#x0A;     coller.png&#x0D;&#x0A;     nouveau.png&#x0D;&#x0A;     copier.png&#x0D;&#x0A;     Fond.png" description="Move files" destination="/Image" element1="couper.png" element2="ouvrir.png" element3="coller.png" element4="nouveau.png" element5="copier.png" element6="Fond.png" files="6" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1506501843108" units="0" version="1.0"/>
+</session>

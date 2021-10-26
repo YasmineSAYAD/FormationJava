@@ -1,0 +1,8 @@
+Nom: sayad
+Prenom: yasmine
+Date de naissance: 10/06/1996
+N°			Module			Note			
+1			Java			17.0			
+2			UML			14.0			
+
+votre moyenne est de15.5vous etes admis(e)

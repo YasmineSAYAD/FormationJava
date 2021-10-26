@@ -1,0 +1,6 @@
+							 MENU RESTAURANT
+Menu hébdomadaire:
+Lundi		PR
+E:Macedoine		150
+P:Dolma		250
+D:Gateau		150
